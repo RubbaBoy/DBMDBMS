@@ -1,0 +1,7 @@
+server:
+    port: 80
+security:
+    basic:
+        enable: false
+    ignored:
+        /**
